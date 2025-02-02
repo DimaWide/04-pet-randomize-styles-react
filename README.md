@@ -5,7 +5,7 @@ This project implements a web application with JWT-based authentication, token e
 Screenshots:    
 [Bundle Images](https://github.com/DimaWide/04-pet-randomize-styles-react/tree/main/src/assets/bundle) 
 
-![Main](https://github.com/DimaWide/04-pet-randomize-styles-react/tree/main/src/assets/img/preview.png)
+![Main](https://github.com/DimaWide/04-pet-randomize-styles-react/blob/main/src/assets/img/preview.png)   
 
 ## Features
 
