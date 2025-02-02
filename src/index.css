@@ -1,0 +1,35 @@
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .todo-form {
+    margin: 20px;
+  }
+  
+  .todo-form input {
+    padding: 8px;
+    width: 200px;
+    margin-right: 10px;
+  }
+  
+  .todo-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .todo-list li {
+    padding: 10px;
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .todo-list li.completed span {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
