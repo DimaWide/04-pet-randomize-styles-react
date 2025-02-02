@@ -3,10 +3,8 @@
 This project implements a web application with JWT-based authentication, token expiration management, and a REST API for managing Todo tasks. It includes features for user registration, login, session management, task creation, updating, and deletion, with a countdown timer to notify users about token expiration.
 
 Screenshots:    
-[JWT Expiration](https://github.com/DimaWide/01-pet-todo-auth-jwt-php-react/blob/main/public/img/FireShot Capture 040 - React App - [localhost].png)     
-[Bundle Images](https://github.com/DimaWide/01-pet-todo-auth-jwt-php-react/blob/main/public/img/bundle) 
-
-![Main](https://github.com/DimaWide/01-pet-todo-auth-jwt-php-react/blob/main/public/img/jwt.png)
+[Bundle Images](https://github.com/DimaWide/04-pet-randomize-styles-react/tree/main/src/assets/bundle) 
+![Main](https://github.com/DimaWide/04-pet-randomize-styles-react/tree/main/src/assets/img/FireShot Capture 040 - React App - [localhost].png)
 
 ## Features
 
