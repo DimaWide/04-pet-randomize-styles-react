@@ -1,4 +1,4 @@
-## 🎨 Todo App with Customizable Color Theme
+## 🎨 App with Customizable Color Theme
 
 A app with the ability to customize the color theme.  
 
