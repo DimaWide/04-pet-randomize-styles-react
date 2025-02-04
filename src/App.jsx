@@ -17,9 +17,9 @@ const getRandomPastelColor = (hueRange, saturationRange, lightnessRange) => {
 
 const App = () => {
     // Состояние для диапазонов Hue, Saturation и Lightness
-    const [hueRange, setHueRange] = useState([150, 155]);
-    const [saturationRange, setSaturationRange] = useState([20, 50]);
-    const [lightnessRange, setLightnessRange] = useState([20, 50]);
+    const [hueRange, setHueRange] = useState([190, 200]);
+    const [saturationRange, setSaturationRange] = useState([20, 55]);
+    const [lightnessRange, setLightnessRange] = useState([20, 70]);
 
     // Состояние для задач
     const [tasks, setTasks] = useState([]);
