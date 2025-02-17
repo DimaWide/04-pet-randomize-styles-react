@@ -4,7 +4,7 @@
 An application with the ability to customize the color theme.
 
 
-**Website link:** [App Customizable Color](https://04-pet-randomize-styles-react.vercel.app/)
+**Website link:** [App Customizable Color](https://04-pet-randomize-styles-react.vercel.app/)    
 Screenshots: [Preview](https://github.com/DimaWide/04-pet-randomize-styles-react/blob/main/src/assets/img/preview.png) | [Bundle Images](https://github.com/DimaWide/04-pet-randomize-styles-react/tree/main/src/assets/bundle) 
 
 ![Main](https://github.com/DimaWide/04-pet-randomize-styles-react/blob/main/src/assets/img/ui.gif)   
