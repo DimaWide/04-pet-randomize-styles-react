@@ -2,7 +2,7 @@
 
 A app with the ability to customize the color theme.  
 
-**Website link:** [App Customizable Color](https://04-pet-randomize-styles-react-nsk31b4oe-dimawides-projects.vercel.app/)
+**Website link:** [App Customizable Color](https://04-pet-randomize-styles-react.vercel.app/)
 
 Screenshots:    
 [Preview](https://github.com/DimaWide/04-pet-randomize-styles-react/blob/main/src/assets/img/preview.png) | 
