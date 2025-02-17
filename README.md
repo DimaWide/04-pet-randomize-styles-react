@@ -1,6 +1,7 @@
 ## 🎨 App with Customizable Color Theme
 
-### Find your style - an application with the ability to customize the color theme.
+### Find your style 
+An application with the ability to customize the color theme.
 
 **Website link:** [App Customizable Color](https://04-pet-randomize-styles-react.vercel.app/)
 
